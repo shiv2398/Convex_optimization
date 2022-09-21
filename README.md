@@ -1,5 +1,5 @@
 # Convex_optimization
-                                        ## Experiments
+                                        ## Experiments On Testing Function
 ## Default Function
 ![](https://github.com/shiv2398/Convex_optimization/blob/master/convergence_gif/plot_convergence.gif)
 ## Beale Function
@@ -10,3 +10,5 @@
 
 ## Griewank Function
 ![](https://github.com/shiv2398/Convex_optimization/blob/master/convergence_gif/Griewank1.gif)
+
+##Boachevesky Function
