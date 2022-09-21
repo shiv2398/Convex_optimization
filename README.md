@@ -1,8 +1,9 @@
 # Convex_optimization
-
-<h1 align="center">Experiments On Testing Function</h1>   \
-
 * We can't show our working algorithm before its approval
+
+<h1 align="center">Experiments On Testing Function</h1>   
+
+
 
 ## Default Function
 ![](https://github.com/shiv2398/Convex_optimization/blob/master/convergence_gif/plot_convergence.gif)
