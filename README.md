@@ -16,5 +16,3 @@
 ## Griewank Function
 ![](https://github.com/shiv2398/Convex_optimization/blob/master/convergence_gif/Griewank1.gif)
 
-## Boachevesky Function
-![](https://github.com/shiv2398/Convex_optimization/blob/master/convergence_gif/Boachevesky.gif)
