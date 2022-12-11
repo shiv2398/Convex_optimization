@@ -1,5 +1,5 @@
 # Convex_optimization
-**Note**- We can't show our working algorithm before its approval
+**Note**- Code will be released Soon
 
 <h1 align="center">Experiments On Testing Function</h1>   
 
